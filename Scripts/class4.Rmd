@@ -1,0 +1,51 @@
+---
+title: "FirstKnitR"
+author: "Carly"
+date: "2/3/2022"
+output:
+  html_document: default
+  word_document: default
+  pdf_document: default
+urlcolor: blue 
+---
+#**Advanced Topics in R: FW891**
+##Class Four-- KnitR
+###_Carly Andrews_
+
+```{r setup, include=FALSE, cache = FALSE}
+require("knitr")
+## setting working directory
+knitr::opts_knit$set(root.dir = rprojroot::find_rstudio_root_file())
+```
+
+<!-- Runs the code but does not output to the document (include=FALSE) -->
+```{r include=FALSE}
+source(file="Scripts/ggp-app05.R");
+```
+
+The below code runs a math operation using the weather data which we used
+in the homework. 
+
+```{r include=TRUE}
+
+weatherData$temp_range <- (weatherData$maxTemp)-(weatherData$minTemp)
+mean <- mean(weatherData$temp_range)
+
+```
+
+We can also run this operation as an inline math equation:
+
+The mean of the range of temperatures recorded is 'r mean(weatherData$temp_range'.
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r weatherData, echo=FALSE}
+plot(scatter3)
+```
+
+We can also insert hyperlinks; for example, this <https://ggplot2.tidyverse.org/reference/element.html> is the website I used for homework four.
+
+We can also create text formatting, including ~~strikethroughs~~.
+
