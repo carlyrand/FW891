@@ -103,7 +103,9 @@ plot(multi1)
 
 multi2=arrangeGrob(plot1, plot3, plot5,
                    layout_matrix = rbind(c(1,3,5),   
-                                         c(1,NA,5)));
+                                         c(1,NA,5)),
+                   top="this", 
+                   bottom="that");
 plot(multi2)
 
 #Questions

@@ -3,7 +3,7 @@
   options(show.error.locations = TRUE);  # show line numbers on error
   library(package=ggplot2);              # get the GGPlot package
   library(package=ggforce);              # for geom_circle, geom_ellipse
-  
+
   #### Two bugs in GGPlot that cause issues with including data and mapping:
   #    1) faceting data must come from a declared (local or global)data frame
   #    2) annotate (manually adding objects) does not work for all geoms_* 
