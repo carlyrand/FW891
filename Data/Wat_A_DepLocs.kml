@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Wat_A_DepLocs" id="Wat_A_DepLocs">
+	<SimpleField name="Site_ID" type="string"></SimpleField>
+</Schema>
+<Folder><name>Wat_A_DepLocs</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_01_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.09833333,42.37709466</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_02_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.10722222,42.37638889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_03_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.11194444,42.35972222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_04_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.10694444,42.36166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_05_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.06666667,42.34444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_06_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.082,42.338192</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_07_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.07361111,42.32361111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_08_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.090692,42.3126</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_09_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.12416667,42.32143281</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_10_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.13944444,42.33305556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_11_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.11916667,42.34916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_12_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.12888889,42.34055556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_13_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.1375,42.34305556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_14_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.14333333,42.34083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_15_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.16111111,42.30444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_16_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.15388889,42.30333333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_17_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.22361111,42.30361111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_18_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.24694444,42.32166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_19_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.25916667,42.31694444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_20_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.256399,42.32802</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_21_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.2616,42.3249</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_22_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.03944444,42.34305556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_23_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.11222222,42.36472222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_24_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.266739,42.323261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_25_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.28805556,42.29555556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_26_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.2697,42.310634</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_27_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.291208,42.306183</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_28_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.286606,42.3027931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_29_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.26972222,42.30166667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_29_B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.27472222,42.30083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_30_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.26166667,42.30138889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_31_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.26055556,42.30638889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_32_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.23638889,42.32694444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_33_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.21916667,42.32377931</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_34_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.20666667,42.30861111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_35_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.20805556,42.31444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_36_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.20555556,42.32638889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_37_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.19472222,42.32972222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_38_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.18833333,42.33111541</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_39_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.25305556,42.33944444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_40_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.19888889,42.32055556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_41_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.10305,42.371289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_42_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.28388889,42.31916667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_43_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.08916667,42.36833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_44_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.07805556,42.36666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_45_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.085,42.355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_46_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.07277778,42.37194444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_47_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.06916667,42.36027778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_48_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.09777778,42.37194444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_49_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.09416667,42.36583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_50_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.09472222,42.33972222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_51_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.08083333,42.33222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_52_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.087598,42.314687</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_53_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.09555556,42.32611111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_54_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.10333333,42.32694444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_55_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.1233,42.33</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_56_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.1675,42.33083333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_57_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.135,42.32833333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_58_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.16333333,42.32361111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_59_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.16972222,42.30694444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_60_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.17555556,42.33305556</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_61_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.18,42.33138889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_62_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.19027778,42.31611111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_63_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.19833333,42.30888889</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_64_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.20166667,42.30472222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_65_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.22722222,42.31277778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_66_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.23944444,42.3125</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_66_B</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.23944444,42.32194444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_67_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.23833333,42.325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_68_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.24027778,42.32972222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_69_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.08472222,42.37472222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_70_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.09333333,42.36111111</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_71_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.07277778,42.35972222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_72_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.0825,42.3525</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_73_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.10055556,42.34444444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_74_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.08166667,42.32666667</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_75_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.09055,42.322065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_76_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.10194444,42.33194444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_77_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.12194444,42.33222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_78_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.14555556,42.32222222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_79_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.15138889,42.32472222</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_80_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.165,42.32694444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_81_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.17888889,42.30777778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_82_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.19194444,42.30583333</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Wat_A_DepLocs">
+		<SimpleData name="Site_ID">Wat_83_A</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-84.19055556,42.31277778</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -9,7 +9,7 @@ options(show.error.locations = TRUE);  # show line numbers on error
 library(package=ggplot2);
 
 # read in data
-weatherData = read.csv(file="Data/weather/Lansing2016NOAA (1).csv")
+weatherData = read.csv(file="Data/Lansing2016NOAA.csv")
 
 
 
@@ -20,7 +20,8 @@ weatherData = read.csv(file="Data/weather/Lansing2016NOAA (1).csv")
 
 # B)
 Plot1 <- ggplot(data = weatherData) +
-  geom_jitter(mapping= aes(x= tempDept, y = windSpeed, size= precip2, color= windDir)) +
+  geom_jitter(mapping= aes(x= tempDept, y = windSpeed, 
+                           size= precip2, color= windDir)) +
   labs(title ="Wind Speed vs.Temperature",
        subtitle= "Precipitation and wind direction",
        Y = "Wind Speed",

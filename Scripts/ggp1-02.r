@@ -9,6 +9,7 @@
 
 #What component (function) would be used to create a text plot?
   #   e + geom_text
+
 #what component would you use to change the breaks on the x-axis if the values 
 #were in date format?
   #   e + scale_x_date

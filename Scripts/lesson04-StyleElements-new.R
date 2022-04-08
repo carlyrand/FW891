@@ -24,7 +24,7 @@
          subtitle = "Lansing, Michigan: 2016",
          x = "Temperature (\u00B0F)",  # 00B0 is the degree symbol
          y = "Humidity (\u0025)");     # 0025 is the percentage symbol
-  plot(plot1);
+  plot(plot1)
   
   #### Part 2: Styling the points ####
   plot2 = ggplot( data=weatherData ) +
